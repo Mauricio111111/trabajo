@@ -1,0 +1,38 @@
+.navegador{
+    display: flex;
+    /*justify-content:center ;*/ 
+    /*background-color: rgb(167, 124, 124);*/
+    background-color: rgba(90, 220, 90, 0.724);
+    border-bottom: 3px solid black;
+
+}
+
+.navegador a{
+    /*color: rgb(129, 94, 48);*/
+    color: rgb(12, 12, 11);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 10px;
+    border-right: 3px solid black;
+    margin: 20px;
+    text-decoration-line: none;
+    font-size: 20px;
+}
+
+.navegador a:hover{
+    color: rgba(85, 108, 8, 0.683);
+    
+}
+
+.navegador h1{
+    margin-left: 20px;
+    margin-right: 200px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(99, 90, 90);
+}

@@ -1,0 +1,13 @@
+.pie-pagina{
+    display: flex;
+    background-color: rgba(90, 220, 90, 0.724);
+    border-top: 2px solid black;
+    justify-content: space-between
+}
+
+.pie-pagina-titulo{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    color: black
+}
